@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="gitexample"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{F2BDA82F-074C-4F95-8BE9-D8316B07211C}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14090.00"/>
+  </_Project>
+
+</Application>

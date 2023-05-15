@@ -1,0 +1,3 @@
+AppAccInfo initialized - 
+ProjFolder: C:\magicxpa49\Add_On\UserFunctionality\ - ProjFileName: UserFunctionality.ecfAppAccInfo initialized - 
+ProjFolder: C:\magicxpa49\Add_On\UserFunctionality\ - ProjFileName: UserFunctionality.ecf
